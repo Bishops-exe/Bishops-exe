@@ -42,10 +42,10 @@ Hello, i am Bishops-exe and i make Minecraft mods in my free time.
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Bishops-exe&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bishops_exe) 
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/bishops_exe) 
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Bishops_exe) 
-
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bishops_exe) 
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/bishops_exe) 
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Bishops_exe) 
+[![Github sponsors](https://img.shields.io/badge/github_sponsors-%230FBF3E?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors/bishops-exe)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
