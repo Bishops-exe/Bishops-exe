@@ -9,6 +9,7 @@ Hello, i am Bishops-exe and i make Minecraft mods in my free time.
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/bishops_exe)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@bishops_exe)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/bishops_exe)
+[![Static Badge](https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/bishops_exe)
 
 # Things i use
 
