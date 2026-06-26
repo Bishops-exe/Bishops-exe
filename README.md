@@ -9,6 +9,7 @@ Hello, i am Bishops-exe and i make Minecraft mods in my free time.
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16721176)
 [![Leetcode](https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/bishops_exe)
 [![Npm](https://img.shields.io/badge/Npm-%23ea2039?style=for-the-badge&logo=npm)](npmjs.com/~bishops_exe)
+[![Modrinth](https://img.shields.io/badge/Modrinth-%23134229?style=for-the-badge&logo=modrinth)](https://modrinth.com/user/Bishops_exe)
 
 ## Less active: 
 
