@@ -4,8 +4,6 @@ Hello, i am Bishops-exe and i make Minecraft mods in my free time.
 # Socials
 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@bishops_exe)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/bishops_exe)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@bishops_exe)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16721176)
 [![Leetcode](https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/bishops_exe)
 [![Npm](https://img.shields.io/badge/Npm-%23ea2039?style=for-the-badge&logo=npm)](npmjs.com/~bishops_exe)
@@ -13,6 +11,8 @@ Hello, i am Bishops-exe and i make Minecraft mods in my free time.
 
 ## Less active: 
 
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://twitch.tv/bishops_exe)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@bishops_exe)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/bishops_exe)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/bishops_exe)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/Bishops_exe)
